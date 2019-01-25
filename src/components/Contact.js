@@ -6,8 +6,8 @@ class Contact extends React.Component {
     showContactInfo: false
   };
 
-  onClickDropDown = (e) => {
-    this.setState({ showContactInfo: !this.state.showContactInfo });
+  onClickDropDown = () => {
+    this.setState(prevState => ({ showContactInfo: !prevState.showContactInfo }));
   };
 
   onClickDelete = () => {
@@ -15,7 +15,6 @@ class Contact extends React.Component {
   }
 
   render() {
-    console.log(this.props);
     const { name, email, phone } = this.props.contact;
     const { showContactInfo } = this.state;
 
