@@ -20,10 +20,6 @@ const Header = ({ appName }) => (
   </nav>
 );
 
-Header.defaultProps = {
-  appName: "Contact handler"
-};
-
 Header.propTypes = {
   appName: PropTypes.string.isRequired
 };
