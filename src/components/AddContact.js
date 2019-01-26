@@ -50,6 +50,9 @@ class AddContact extends React.Component {
       email: "",
       phone: ""
     });
+
+    // redirect to wherever you want take the user on submit
+    this.props.history.push("/");
   };
 
   render() {
