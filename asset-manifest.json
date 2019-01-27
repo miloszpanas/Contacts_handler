@@ -1,15 +1,15 @@
 {
-  "main.css": "/contacthandler/static/css/main.da3b6268.chunk.css",
-  "main.js": "/contacthandler/static/js/main.6d335499.chunk.js",
-  "main.js.map": "/contacthandler/static/js/main.6d335499.chunk.js.map",
-  "static/css/1.910ae0e8.chunk.css": "/contacthandler/static/css/1.910ae0e8.chunk.css",
-  "static/js/1.2d4d52b1.chunk.js": "/contacthandler/static/js/1.2d4d52b1.chunk.js",
-  "static/js/1.2d4d52b1.chunk.js.map": "/contacthandler/static/js/1.2d4d52b1.chunk.js.map",
-  "runtime~main.js": "/contacthandler/static/js/runtime~main.4085f71e.js",
-  "runtime~main.js.map": "/contacthandler/static/js/runtime~main.4085f71e.js.map",
-  "static/css/main.da3b6268.chunk.css.map": "/contacthandler/static/css/main.da3b6268.chunk.css.map",
-  "static/css/1.910ae0e8.chunk.css.map": "/contacthandler/static/css/1.910ae0e8.chunk.css.map",
-  "index.html": "/contacthandler/index.html",
-  "precache-manifest.43c2ab5b67acd0cfc3d0ea77c2e21b00.js": "/contacthandler/precache-manifest.43c2ab5b67acd0cfc3d0ea77c2e21b00.js",
-  "service-worker.js": "/contacthandler/service-worker.js"
+  "main.css": "/contactshandler/static/css/main.da3b6268.chunk.css",
+  "main.js": "/contactshandler/static/js/main.18499e1f.chunk.js",
+  "main.js.map": "/contactshandler/static/js/main.18499e1f.chunk.js.map",
+  "static/css/1.910ae0e8.chunk.css": "/contactshandler/static/css/1.910ae0e8.chunk.css",
+  "static/js/1.2d4d52b1.chunk.js": "/contactshandler/static/js/1.2d4d52b1.chunk.js",
+  "static/js/1.2d4d52b1.chunk.js.map": "/contactshandler/static/js/1.2d4d52b1.chunk.js.map",
+  "runtime~main.js": "/contactshandler/static/js/runtime~main.9040c791.js",
+  "runtime~main.js.map": "/contactshandler/static/js/runtime~main.9040c791.js.map",
+  "static/css/main.da3b6268.chunk.css.map": "/contactshandler/static/css/main.da3b6268.chunk.css.map",
+  "static/css/1.910ae0e8.chunk.css.map": "/contactshandler/static/css/1.910ae0e8.chunk.css.map",
+  "index.html": "/contactshandler/index.html",
+  "precache-manifest.09577ca687ef195a79eed2c04eac2ca9.js": "/contactshandler/precache-manifest.09577ca687ef195a79eed2c04eac2ca9.js",
+  "service-worker.js": "/contactshandler/service-worker.js"
 }
