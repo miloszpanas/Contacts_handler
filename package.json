@@ -2,7 +2,7 @@
   "name": "contacts-handler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://miloszpanas.github.io/contacthandler",
+  "homepage": "https://miloszpanas.github.io/contactshandler",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.2.1",
@@ -21,7 +21,8 @@
     "uuid": "^3.3.2"
   },
   "scripts": {
-    "deploy": "yarn run build && gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 const Header = ({ appName }) => (
   <nav className="navbar navbar-expand-sm navbar-dark bg-info mb-3 py-0">
     <div className="container">
-      <a href="/" className="navbar-brand">
+      <a href="/contactshandler" className="navbar-brand">
         {appName}
       </a>
       <div>
